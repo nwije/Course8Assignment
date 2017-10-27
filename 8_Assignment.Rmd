@@ -1,6 +1,7 @@
 ---
 title: "Predicting type of weight lifting using accelerometer data"
 subtitle: "Course 8 Assignment"
+keep_md: true
 output: html_document
 ---
 
