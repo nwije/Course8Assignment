@@ -141,6 +141,8 @@ names(predfinal) <- c("Item", "Predicted")
 predfinal
 ```
 
+The **expected out of sample error is `r round((1-accuracy)*100, 1)`% (95 confidence interval 0.4-0.8%)**, as determined by the confusion matrix in the previous section.
+
 
 ### Acknowledgements
 Data used from the following study:
